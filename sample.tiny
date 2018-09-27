@@ -1,0 +1,10 @@
+let x : int = 3 - 1 ;
+in
+    int ( x * x + 1 * x )
+end ;
+
+let r : real = 10.0 + 1 ;
+    pi : real = 3.1416 ;
+in
+    real ( pi * r * r + 1 )
+end ;	
